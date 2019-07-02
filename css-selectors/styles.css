@@ -36,11 +36,11 @@
 #button-2 {
 	color: #5D6063;	/* Dark gray */
 }
-
+/*
 #button-2 {
-  background-color: #D55C5F;    /* Red */
+  background-color: #D55C5F;
 }
-
+*/
 .call-to-action:link,
 .call-to-action:visited {
 	font-style: italic;
